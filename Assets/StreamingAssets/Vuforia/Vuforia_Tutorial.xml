@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="secondpageTarget" size="188.979996 301.660980" />
+    <ImageTarget name="firstpageTarget" size="188.979996 128.113174" />
+  </Tracking>
+</QCARConfig>
