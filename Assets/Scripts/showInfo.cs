@@ -8,6 +8,8 @@ public class showInfo : MonoBehaviour
     public GameObject plane2;   
     public GameObject plane3;
 
+    public GameObject gameObject;
+
     public void onShow1()
     {
         plane1.SetActive(true);
@@ -35,4 +37,9 @@ public class showInfo : MonoBehaviour
         plane2.SetActive(false);
         plane3.SetActive(false);
     }    
+
+    public void showgameObject()
+    {
+        gameObject.SetActive(true);
+    }
 }
