@@ -33,7 +33,7 @@ public class showInfo : MonoBehaviour
 
     public void onOff()
     {
-        plane1?.SetActive(false);
+        plane1.SetActive(false);
         plane2.SetActive(false);
         plane3.SetActive(false);
     }    
